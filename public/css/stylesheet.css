@@ -19,3 +19,18 @@ span
     line-height: 2em;
     color: white;
 }
+
+.navbar-nav
+{
+    font-weight: bold;
+}
+
+.navbar-nav .active
+{
+    color: #0b7570 !important;
+}
+
+.nav-item > a:hover
+{
+    color: #0b7570;
+}
