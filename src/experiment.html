@@ -9,37 +9,47 @@
     <link rel="script" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js">
     <link rel="script" href="../bootstrap-5.2.0/js/dist/carousel.js">
     <title>Testing Page</title>
+
+    <link rel="stylesheet" href="../public/css/style.css">
 </head>
 <body>
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="../public/img/blue_cropped.jpg" alt="First slide">
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-3">
+                <div class="container">
+                    <ul class="list-group">
+                        <a href="portofolio.html" class="list-group-item list-group-item-action list-group-item-info">Jasa Kesehatan</a>
+                        <a href="portofolio-jasa_keuangan.html" class="list-group-item list-group-item-action list-group-item-info">Jasa Keuangan</a>
+                        <a href="portofolio-konstruksi.html" class="list-group-item list-group-item-action list-group-item-info">Konstruksi & Real Estate<a/>
+                        <a href="portofolio-otomotif.html" class="list-group-item list-group-item-action list-group-item-info active">Otomotif</a>
+                        <a href="portofolio-industri.html" class="list-group-item list-group-item-action list-group-item-info">Produk Industri</a>
+                        <a href="portofolio-tmt.html" class="list-group-item list-group-item-action list-group-item-info">Teknologi, Media & Telekomunikasi</a>
+                        <a href="portofolio-thr.html" class="list-group-item list-group-item-action list-group-item-info">Travel, Hotel & Restoran</a>
+                    </ul>
+                </div>
             </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="../public/img/Meeting-Room-cropped.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="../public/img/slider.jpeg" alt="Third slide">
+            <div class="col-9">
+                <div class="container">
+                    <h3>Audit Laporan Keuangan</h3>
+                    <div class="middle">
+                        <div class="bar-container">
+                            <div class="bar-1"></div>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col">
+                            <h4>TES</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos quae autem atque soluta vitae cumque numquam molestiae fugit ipsam? Modi atque excepturi praesentium omnis voluptates aperiam maiores eveniet tenetur, quas error officia!</p>
+                        </div>
+                        <div class="col">
+                            <img src="../public/img/mapsrandmu.jpg" alt="Lokasi Randmu" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <script>
-        $('#myCollapse').on('shown.bs.collapse', function (e) {
-  // Action to execute once the collapsible area is expanded
-        })
-
-        $('#myCarousel').on('slid.bs.carousel', function (e) {
-  $('#myCarousel').carousel('2') // Will slide to the slide 2 as soon as the transition to slide 1 is finished
-})
-
-$('#myCarousel').carousel('1') // Will start sliding to the slide 1 and returns to the caller
-$('#myCarousel').carousel('2') // !! Will be ignored, as the transition to the slide 1 is not finished !!
-
-        $.fn.modal.Constructor.Default.keyboard = false // changes default for the modal plugin's `keyboard` option to false
-        var bootstrapButton = $.fn.button.noConflict() // return $.fn.button to previously assigned value
-        $.fn.bootstrapBtn = bootstrapButton            // give $().bootstrapBtn the Bootstrap functionality
-    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 </body>
 </html>
