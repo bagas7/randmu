@@ -118,32 +118,37 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  transition: all 0.5s;
-  z-index: 997;
-  padding: 15px 0;
+	z-index: 997;
+	padding: 15px 0;
+	background: #37517e;
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  	background: #37517e;
 }
 
 #header .logo {
-  font-size: 30px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 500;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	font-weight: 500;
+	letter-spacing: 2px;
+	text-transform: uppercase;
 }
 
 #header .logo a {
-  color: #fff;
+  	color: #fff;
 }
 
 #header .logo img {
-  max-height: 40px;
+  	max-height: 40px;
+}
+
+#header_nonhome
+{
+  	padding: 15px;
 }
 
 /*--------------------------------------------------------------
@@ -1826,37 +1831,37 @@ section {
 }
 
 #footer .footer-bottom {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #fff;
 }
 
 #footer .copyright {
-  float: left;
+  	float: left;
 }
 
 #footer .credits {
-  float: right;
-  font-size: 13px;
+	float: right;
+	font-size: 13px;
 }
 
 #footer .credits a {
-  transition: 0.3s;
+  	transition: 0.3s;
 }
 
 @media (max-width: 768px) {
-  #footer .footer-bottom {
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
+  	#footer .footer-bottom {
+		padding-top: 20px;
+		padding-bottom: 20px;
+  	}
 
-  #footer .copyright,
-  #footer .credits {
-    text-align: center;
-    float: none;
-  }
+	#footer .copyright,
+	#footer .credits {
+		text-align: center;
+		float: none;
+	}
 
-  #footer .credits {
-    padding-top: 4px;
-  }
+	#footer .credits {
+		padding-top: 4px;
+  	}	
 }
