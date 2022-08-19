@@ -1,0 +1,65 @@
+.bg-navigasi
+{
+  background-color: #2C3E50;
+}
+
+.bg-hero
+{
+  background-color: #88fff7;
+}
+
+.img-fitur
+{
+  width: 150px;
+}
+
+.testimoni
+{
+  background-color: #7C83FD;
+  color: #fff;
+  height: 450px;
+}
+
+.img-testimoni
+{
+  width: 100px;
+}
+
+.carousel-inner
+{
+  padding: 0 10%;
+}
+
+.paket-row:nth-of-type(even)
+{
+  background-color: #EEFFFF;
+}
+
+.paket-row:hover
+{
+  background-color: #88FFF7;
+}
+
+.kontak
+{
+  background-color: whitesmoke;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  border: 1px solid grey;
+}
+.nav li a{
+  background-color: none;
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+  border: 1px solid grey;
+}
+.nav li a:hover {
+  background-color: grey;
+  color: white;
+}
