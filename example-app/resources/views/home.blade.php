@@ -450,12 +450,12 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Services</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult.html">Management Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory.html">Investment Advisory & Feasibility Studies</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance.html">Auditing & Assurance</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting.html">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning.html">Tax Planning & Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-hr.html">HR Solutions</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult">Management Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance">Auditing & Assurance</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting">Financial & Accounting</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning">Tax Planning & Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-hr">HR Solutions</a></li>
 						</ul>
 					</div>
 
