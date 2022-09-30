@@ -33,6 +33,10 @@ Route::get('/services-invest_advisory', function () {
     return view('services-invest_advisory');
 });
 
+Route::get('/layanan-penasihat_investasi', function () {
+    return view('layanan-penasihat_investasi');
+});
+
 Route::get('/services-auditing_assurance', function () {
     return view('services-auditing_assurance');
 });
