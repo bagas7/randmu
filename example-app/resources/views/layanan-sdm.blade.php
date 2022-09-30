@@ -55,8 +55,8 @@
 					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="services-auditing_assurance">English</a></li>
-							<li><a href="layanan-audit_jaminan">Bahasa Indonesia</a></li>
+							<li><a href="services-hr">English</a></li>
+							<li><a href="layanan-sdm">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
 					<li><a class="nav-link" href="kontak">Kontak</a></li>
@@ -76,18 +76,17 @@
     <main id="main">
         <section id="services" class="services section-bg">
             <div class="container">
-                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Audit & Jaminan</h1><br>
+                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Solusi SDM</h1><br>
             </div>
-
             <div class="container">
                 <p>
-                    Dalam lingkungan bisnis saat ini, ada lebih banyak pengawasan dan skeptisisme terhadap laporan keuangan perusahaan daripada sebelumnya dan oleh karena itu audit laporan keuangan menjadi sangat diperlukan. Investor telah kehilangan kepercayaan pada tata kelola dan pelaporan perusahaan.
-                    <br><br>
+                    Dalam upaya kami untuk menyediakan klien kami dengan semua bantuan yang mereka butuhkan untuk secara efisien
+                    mengelola bisnis mereka dan fokus pada aktivitas nilai tambah dari sumber daya manusia mereka,
+                    kami menyediakan solusi HR di bawah ini. Kami menyediakan solusi untuk bisnis untuk mengakomodasi
+                    untuk tren yang meningkat untuk mengalihdayakan aktivitas dukungan kepada para profesional dengan
+                    pengalaman dan alat yang dibutuhkan untuk menyelesaikan pekerjaan. <br><br>
 
-                    Manajemen perusahaan, dewan dan komite audit, auditor internal dan eksternal, analis dan profesional investasi lainnya memiliki peran penting dalam membangun kembali kepercayaan investor. Pemenuhan harapan investor diawali dengan kelengkapan dan keakuratan informasi yang diberikan dalam laporan keuangan suatu perusahaan.  
-                    <br><br>
-
-                    Untuk organisasi yang memerlukan audit untuk alasan undang-undang atau peraturan terkait dengan pengajuan informasi keuangan tahunan dan berkala mereka, kami menyediakan layanan audit berkualitas tinggi seperti, namun tidak terbatas pada, sebagai berikut:
+                    Untuk menjaga praktisi di tepi bidang ini, kami menyediakan layanan berikut:
                 </p><br>
             </div>
             <div class="container">
@@ -98,11 +97,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Audit Laporan Keuangan</h4>
-                        <p>
-                            - Audit laporan keuangan tahunan<br>
-                            - Audit laporan keuangan interim
-                        </p>
+						<h4>Layanan aktuarial</h4>
 					</div>
 					<div class="col-1" style="text-align: center;">
 						<div class="dot">
@@ -110,15 +105,11 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Tinjauan Laporan Keuangan</h4>
-                        <p>
-                            - Tinjauan laporan keuangan tahunan<br>
-                            - Tinjauan laporan keuangan interim
-                        </p>
+						<h4>Dukungan Administratif Sumber Daya Manusia dan Outsourcing</h4>
 					</div>
                 </div>
             </div>
-            <div class="container" style="padding-top: 25px;">
+			<div class="container" style="padding-top: 25px;">
 				<div class="row">
 					<div class="col-1" style="text-align: center;">
 						<div class="dot">
@@ -126,20 +117,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Laporan Luar Negeri</h4>
-                        <p>
-                            - Penerjemahan laporan keuangan<br>
-                            - Laporan IFRS<br>
-                            - Laporan untuk hal-hal spesifik
-                        </p>
-					</div>
-					<div class="col-1" style="text-align: center;">
-						<div class="dot">
-							<h4>4</h4>
-						</div>
-					</div>
-					<div class="col-5">
-						<h4>AUP - Agreed-upon Procedures</h4>
+						<h4>Perekrutan</h4>
 					</div>
 				</div>
 			</div>
