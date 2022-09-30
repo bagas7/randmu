@@ -251,7 +251,7 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bxl-dribbble"></i></div>
-							<h4><a href="services-manage_consult.html">Konsultasi Manajemen</a></h4>
+							<h4><a href="layanan-konsult_manage">Konsultasi Manajemen</a></h4>
 							<p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="services-manage_consult.html">read more...</a></p>
 						</div>
 					</div>
@@ -259,7 +259,7 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="services-invest_advisory.html">Penasihat Investasi & Studi Kelayakan</a></h4>
+							<h4><a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></h4>
 							<p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="services-invest_advisory.html">read more...</a></p>
 						</div>
 					</div>
@@ -267,7 +267,7 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-tachometer"></i></div>
-							<h4><a href="services-auditing_assurance.html">Audit & Asuransi</a></h4>
+							<h4><a href="layanan-audit_jaminan">Audit & Asuransi</a></h4>
 							<p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="services-auditing_assurance.html">read more...</a></p>
 						</div>
 					</div>
@@ -295,7 +295,7 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="services-hr.html">Solusi SDM</a></h4>
+							<h4><a href="layanan-sdm">Solusi SDM</a></h4>
 							<p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="services-hr.html">read more...</a></p>
 						</div>
 					</div>
