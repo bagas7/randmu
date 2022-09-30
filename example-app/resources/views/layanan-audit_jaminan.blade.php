@@ -166,23 +166,23 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Layanan Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage.html">Konsultasi Manajemen</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi.html">Penasihat Investasi & Studi Kelayakan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan.html">Audit & Jaminan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan.html">Akuntansi Keuangan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak.html">Perencanaan & Konsultasi Pajak</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm.html">Solusi SDM</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage">Konsultasi Manajemen</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan">Audit & Jaminan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan">Akuntansi Keuangan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak">Perencanaan & Konsultasi Pajak</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm">Solusi SDM</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="beranda.html#portfolio">Ritel & Manufaktur</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="beranda.html#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="beranda.html#portfolio">Teknologi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="beranda.html#portfolio">Transportasi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="beranda.html#portfolio">Kerja sama</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Kerja sama</a></li>
 						</ul>
 					</div>
 
@@ -220,15 +220,15 @@
 	<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 	<!-- Vendor JS Files -->
-	<script src="assets/vendor/aos/aos.js"></script>
-	<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-	<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-	<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-	<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-	<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-	<script src="assets/vendor/php-email-form/validate.js"></script>
+	<script src="vendor/aos/aos.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="vendor/glightbox/js/glightbox.min.js"></script>
+	<script src="vendor/isotope-layout/isotope.pkgd.min.js"></script>
+	<script src="vendor/swiper/swiper-bundle.min.js"></script>
+	<script src="vendor/waypoints/noframework.waypoints.js"></script>
+	<script src="vendor/php-email-form/validate.js"></script>
 
 	<!-- Template Main JS File -->
-	<script src="assets/js/main.js"></script>
+	<script src="js/main.js"></script>
 </body>
 </html>
