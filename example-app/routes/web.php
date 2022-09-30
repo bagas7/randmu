@@ -41,6 +41,10 @@ Route::get('/services-taxplanning', function () {
     return view('services-taxplanning');
 });
 
+Route::get('/services-hr', function () {
+    return view('services-hr');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });

@@ -296,8 +296,8 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="services-hr.html">HR Solutions</a></h4>
-							<p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="services-hr.html">read more...</a></p>
+							<h4><a href="services-hr">HR Solutions</a></h4>
+							<p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="services-hr">read more...</a></p>
 						</div>
 					</div>
 
