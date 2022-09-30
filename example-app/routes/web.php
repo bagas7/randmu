@@ -25,6 +25,10 @@ Route::get('/services-manage_consult', function () {
     return view('services-manage_consult');
 });
 
+Route::get('/layanan-konsult_manage', function () {
+    return view('layanan-konsult_manage');
+});
+
 Route::get('/services-invest_advisory', function () {
     return view('services-invest_advisory');
 });
