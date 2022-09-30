@@ -57,6 +57,10 @@ Route::get('/services-hr', function () {
     return view('services-hr');
 });
 
+Route::get('/layanan-sdm', function () {
+    return view('layanan-sdm');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
