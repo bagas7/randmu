@@ -55,7 +55,7 @@
 					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="#">English</a></li>
+							<li><a href="services-taxplanning">English</a></li>
 							<li><a href="#">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
