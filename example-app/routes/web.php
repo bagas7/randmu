@@ -25,12 +25,24 @@ Route::get('/services-manage_consult', function () {
     return view('services-manage_consult');
 });
 
+Route::get('/layanan-konsult_manage', function () {
+    return view('layanan-konsult_manage');
+});
+
 Route::get('/services-invest_advisory', function () {
     return view('services-invest_advisory');
 });
 
+Route::get('/layanan-penasihat_investasi', function () {
+    return view('layanan-penasihat_investasi');
+});
+
 Route::get('/services-auditing_assurance', function () {
     return view('services-auditing_assurance');
+});
+
+Route::get('/layanan-audit_jaminan', function () {
+    return view('layanan-audit_jaminan');
 });
 
 Route::get('/services-financial_accounting', function () {
