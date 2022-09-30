@@ -41,6 +41,10 @@ Route::get('/services-auditing_assurance', function () {
     return view('services-auditing_assurance');
 });
 
+Route::get('/layanan-audit_jaminan', function () {
+    return view('layanan-audit_jaminan');
+});
+
 Route::get('/services-financial_accounting', function () {
     return view('services-financial_accounting');
 });
