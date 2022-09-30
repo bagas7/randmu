@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-	<title>Randmu | PT. Randmu Indonesia Consulta</title>
+	<title>Randmu | PT. Randmu Indonesia Consult</title>
 	
 	<meta content="" name="description">
 	<meta content="" name="keywords">
@@ -252,24 +252,24 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bxl-dribbble"></i></div>
-							<h4><a href="services-manage_consult.html">Management Consultancy</a></h4>
-							<p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="services-manage_consult.html">read more...</a></p>
+							<h4><a href="services-manage_consult">Management Consultancy</a></h4>
+							<p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="services-manage_consult">read more...</a></p>
 						</div>
 					</div>
 
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="services-invest_advisory.html">Investment Advisory & Feasibility Studies</a></h4>
-							<p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="services-invest_advisory.html">read more...</a></p>
+							<h4><a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></h4>
+							<p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="services-invest_advisory">read more...</a></p>
 						</div>
 					</div>
 
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-tachometer"></i></div>
-							<h4><a href="services-auditing_assurance.html">Auditing & Assurance</a></h4>
-							<p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="services-auditing_assurance.html">read more...</a></p>
+							<h4><a href="services-auditing_assurance">Auditing & Assurance</a></h4>
+							<p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="services-auditing_assurance">read more...</a></p>
 						</div>
 					</div>
 
@@ -319,7 +319,7 @@
 							We have the depth and breadth to provide clients with a variety of perspectives, ideas and experiences."
 						</p>
 						<br>
-						<p><strong>RANDMU</strong>-CONSULTA</p>
+						<p><strong>RANDMU</strong>-CONSULT</p>
 					</div>
 				</div>
 

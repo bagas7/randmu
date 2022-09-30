@@ -21,6 +21,18 @@ Route::get('/beranda', function () {
     return view('beranda');
 });
 
+Route::get('/services-manage_consult', function () {
+    return view('services-manage_consult');
+});
+
+Route::get('/services-invest_advisory', function () {
+    return view('services-invest_advisory');
+});
+
+Route::get('/services-auditing_assurance', function () {
+    return view('services-auditing_assurance');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
