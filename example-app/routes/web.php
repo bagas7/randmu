@@ -33,6 +33,14 @@ Route::get('/services-auditing_assurance', function () {
     return view('services-auditing_assurance');
 });
 
+Route::get('/services-financial_accounting', function () {
+    return view('services-financial_accounting');
+});
+
+Route::get('/services-taxplanning', function () {
+    return view('services-taxplanning');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });

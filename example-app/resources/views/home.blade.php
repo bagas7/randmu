@@ -280,16 +280,16 @@
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bx-layer"></i></div>
-							<h4><a href="services-financial_accounting.html">Financial & Accounting Services</a></h4>
-							<p>We offer financial and accounting outsourcing services to provide our clients with timely, accurate and customized financial reports saving them the hassle of establishing an accounting department, regulating internal <a href="services-financial_accounting.html">read more...</a></p>
+							<h4><a href="services-financial_accounting">Financial & Accounting Services</a></h4>
+							<p>We offer financial and accounting outsourcing services to provide our clients with timely, accurate and customized financial reports saving them the hassle of establishing an accounting department, regulating internal <a href="services-financial_accounting">read more...</a></p>
 						</div>
 					</div>
 
 					<div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
 						<div class="icon-box">
 							<div class="icon"><i class="bx bxl-dribbble"></i></div>
-							<h4><a href="services-taxplanning.html">Tax Planning & Consultancy</a></h4>
-							<p>Tax is now the number one regulatory concern of any CEO, and it is driving demand for proper internal control activities and tough financial reporting processes to satisfy regulators and stakeholders. With exceptional <a href="services-taxplanning.html">read more...</a></p>
+							<h4><a href="services-taxplanning">Tax Planning & Consultancy</a></h4>
+							<p>Tax is now the number one regulatory concern of any CEO, and it is driving demand for proper internal control activities and tough financial reporting processes to satisfy regulators and stakeholders. With exceptional <a href="services-taxplanning">read more...</a></p>
 						</div>
 					</div>
 
