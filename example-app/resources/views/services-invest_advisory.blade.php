@@ -49,17 +49,17 @@
 					<!--kalau sedang ngerjain about, pindah active ke about-->
 					<!--kalau sedang ngerjain team, pindah active ke team-->
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
-					<li><a class="nav-link" href="home.html">Home</a></li>
-					<li><a class="nav-link" href="home.html#news">News</a></li>
-					<li><a class="nav-link active" href="home.html#services">Services</a></li>
-					<li><a class="nav-link" href="home.html#portfolio">Portfolio</a></li>
+					<li><a class="nav-link" href="/">Home</a></li>
+					<li><a class="nav-link" href="/#news">News</a></li>
+					<li><a class="nav-link active" href="/#services">Services</a></li>
+					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="#">English</a></li>
+							<li><a href="services-invest_advisory">English</a></li>
 							<li><a href="#">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="contact.html">Contact</a></li>
+					<li><a class="nav-link" href="contact">Contact</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav>
@@ -139,23 +139,23 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Services</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult.html">Management Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory.html">Investment Advisory & Feasibility Studies</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance.html">Auditing & Assurance</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting.html">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning.html">Tax Planning & Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-hr.html">HR Solutions</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult">Management Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance">Auditing & Assurance</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting">Financial & Accounting</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning">Tax Planning & Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-hr">HR Solutions</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Clients</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Retail & Manufactures</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Service, Hospitality & Construction</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Technology</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Transportation</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Cooperation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Retail & Manufactures</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Service, Hospitality & Construction</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Technology</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Transportation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Cooperation</a></li>
 						</ul>
 					</div>
 
