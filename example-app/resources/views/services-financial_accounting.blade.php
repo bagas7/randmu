@@ -5,7 +5,7 @@
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <!--ubah namahalaman jadi nama halaman yang sedang dikerjakan-->
-	<title>Services | PT. Randmu Indonesia Consulta</title>
+	<title>Services | PT. Randmu Indonesia Consult</title>
 	
 	<meta content="" name="description">
 	<meta content="" name="keywords">
@@ -56,7 +56,7 @@
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-financial_accounting">English</a></li>
-							<li><a href="#">Bahasa Indonesia</a></li>
+							<li><a href="layanan-akuntansi_keuangan">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
 					<li><a class="nav-link" href="contact">Contact</a></li>
