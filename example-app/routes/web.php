@@ -53,6 +53,10 @@ Route::get('/services-taxplanning', function () {
     return view('services-taxplanning');
 });
 
+Route::get('/layanan-pajak', function () {
+    return view('layanan-pajak');
+});
+
 Route::get('/services-hr', function () {
     return view('services-hr');
 });

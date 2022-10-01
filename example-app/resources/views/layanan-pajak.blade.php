@@ -49,17 +49,17 @@
 					<!--kalau sedang ngerjain about, pindah active ke about-->
 					<!--kalau sedang ngerjain team, pindah active ke team-->
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
-					<li><a class="nav-link" href="/">Home</a></li>
-					<li><a class="nav-link" href="/#news">News</a></li>
-					<li><a class="nav-link active" href="/#services">Services</a></li>
-					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
-					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
+					<li><a class="nav-link" href="beranda">Beranda</a></li>
+					<li><a class="nav-link" href="beranda#news">Berita</a></li>
+					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
+					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
+					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-taxplanning">English</a></li>
 							<li><a href="layanan-pajak">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="contact">Contact</a></li>
+					<li><a class="nav-link" href="kontak">Kontak</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav>
@@ -80,21 +80,20 @@
             </div>
             <div class="container">
                 <p>
-                    Tax is now the number one regulatory concern of any CEO, and it is driving demand for 
-                    proper internal control activities and tough financial reporting processes to satisfy 
-                    regulators and stakeholders. 
+					Pajak sekarang menjadi perhatian regulasi nomor satu dari CEO mana pun, dan itu mendorong permintaan untuk
+                    aktivitas pengendalian internal yang tepat dan proses pelaporan keuangan yang sulit untuk memuaskan
+                    regulator dan pemangku kepentingan. 
                     <br><br>
 
-                    With exceptional expertise in this area, we offer strategic consultancy from the 
-                    establishment of new entities to resolving tax conflicts with the tax authorities. 
+                    Dengan keahlian luar biasa di bidang ini, kami menawarkan konsultasi strategis dari
+                    pembentukan entitas baru untuk menyelesaikan konflik perpajakan dengan otoritas pajak.
                     <br><br>
 
-                    We advise clients on how to achieve their business objectives by reducing their tax 
-                    risks and meeting their compliance obligations.Our tax consultancy also enhances 
-                    business and operating efficiency as we advise clients on managing their tax contributions. 
-                    
+                    Kami menyarankan klien tentang cara mencapai tujuan bisnis mereka dengan mengurangi pajak mereka
+                    risiko dan memenuhi kewajiban kepatuhan mereka. Konsultasi pajak kami juga meningkatkan
+                    efisiensi bisnis dan operasi karena kami menyarankan klien untuk mengelola kontribusi pajak mereka. 
 					<br><br>
-                    Our services in this field include, but are not limited to, the following:
+                    Layanan kami di bidang ini meliputi, namun tidak terbatas pada, sebagai berikut:
                 </p><br>
             </div>
             <div class="container">
@@ -105,7 +104,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Tax planning</h4>
+						<h4>Perencanaan pajak</h4>
 					</div>
 					<div class="col-1" style="text-align: center;">
 						<div class="dot">
@@ -113,7 +112,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Liquidation</h4>
+						<h4>Likuidasi</h4>
 					</div>
                 </div>
             </div>
@@ -125,10 +124,10 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>International taxation</h4>
+						<h4>Perpajakan internasional</h4>
                         <p>
-                            - Tax foreign reporting<br>
-                            - Transfer pricing
+                            - Laporan pajak luar negeri<br>
+                            - Pembiayaan transfer
                         </p>
 					</div>
 					<div class="col-1" style="text-align: center;">
@@ -137,11 +136,11 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Tax advisory</h4>
+						<h4>Penasihat pajak</h4>
                         <p>
-                            - Tax consultation<br>
-                            - Tax due diligence<br>
-                            - Tax audit
+                            - Konsultasi pajak<br>
+                            - Uji tuntas pajak<br>
+                            - Audit pajak
                         </p>
 					</div>
 				</div>
@@ -154,7 +153,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Tax compliance & review</h4>
+						<h4>Kepatuhan & tinjauan pajak</h4>
 					</div>
 				</div>
 			</div>
@@ -172,38 +171,38 @@
 							Wisma Kodel 8th Floor<br>
 							Jalan H.R Rasuna Said Kav.B.4<br>
 							Setiabudi, Jakarta Selatan<br><br>
-							<strong>Phone:</strong> +62 21 3030 5885 <br>
+							<strong>Telp:</strong> +62 21 3030 5885 <br>
 							<strong>WhatsApp:</strong> +62 8151 152 9555 <br>
 							<strong>Email:</strong> randmu@outlook.com<br>
 						</p>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Services</h4>
+						<h4>Layanan Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult">Management Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance">Auditing & Assurance</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning">Tax Planning & Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-hr">HR Solutions</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage">Konsultasi Manajemen</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan">Audit & Jaminan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan">Akuntansi Keuangan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak">Perencanaan & Konsultasi Pajak</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm">Solusi SDM</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Clients</h4>
+						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Retail & Manufactures</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Service, Hospitality & Construction</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Technology</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Transportation</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Cooperation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Kerja sama</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Social Networks</h4>
-						<p>Connect with us</p>
+						<h4>Sosial Media Kami</h4>
+						<p>Terhubung dengan kami</p>
 						<div class="social-links mt-3">
 							<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
 							<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
