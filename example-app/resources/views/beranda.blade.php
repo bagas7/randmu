@@ -461,12 +461,12 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Layanan Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage.html">Konsultasi Manajemen</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi.html">Penasihat Investasi & Studi Kelayakan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan.html">Audit & Jaminan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan.html">Akuntansi Keuangan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak.html">Perencanaan & Konsultasi Pajak</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm.html">Solusi SDM</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage">Konsultasi Manajemen</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan">Audit & Jaminan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan">Akuntansi Keuangan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak">Perencanaan & Konsultasi Pajak</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm">Solusi SDM</a></li>
 						</ul>
 					</div>
 

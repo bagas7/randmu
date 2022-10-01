@@ -169,24 +169,23 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Layanan Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Konsultasi Manajemen</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Penasihat Investasi & Studi Kelayakan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Audit & Jaminan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Akuntansi Keuangan</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Perencanaan & Konsultasi Pajak</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Solusi SDM</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage">Konsultasi Manajemen</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan">Audit & Jaminan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan">Akuntansi Keuangan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak">Perencanaan & Konsultasi Pajak</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm">Solusi SDM</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Ritel & Manufaktur</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Teknologi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Transportasi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="home.html#portfolio">Kerja sama</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Kerja sama</a></li>
 						</ul>
 					</div>
 
