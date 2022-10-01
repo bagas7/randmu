@@ -169,13 +169,12 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Services</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Management Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Investment Advisory & Feasibility Studies</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Auditing & Assurance</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Pembukuan & Akuntansi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">Tax Planning & Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#">HR Solutions</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult">Management Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance">Auditing & Assurance</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting">Financial & Accounting</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning">Tax Planning & Consultancy</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="services-hr">HR Solutions</a></li>
 						</ul>
 					</div>
 
