@@ -41,7 +41,7 @@
         <div class="container d-flex align-items-center">
             <!--<h1 class="logo me-auto"><a href="home.html">Randmu</a></h1>-->
             <!-- Uncomment below if you prefer to use an image logo -->
-			<a href="/" class="logo me-auto"><img src="img/logo_randmu.jpg" alt="Randmu" class="img-fluid"></a>
+			<a href="beranda" class="logo me-auto"><img src="img/logo_randmu.jpg" alt="Randmu" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar">
 				<ul>
@@ -49,17 +49,17 @@
 					<!--kalau sedang ngerjain about, pindah active ke about-->
 					<!--kalau sedang ngerjain team, pindah active ke team-->
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
-					<li><a class="nav-link" href="/">Home</a></li>
-					<li><a class="nav-link" href="/#news">News</a></li>
-					<li><a class="nav-link active" href="/#services">Services</a></li>
-					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
-					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
+					<li><a class="nav-link" href="beranda">Beranda</a></li>
+					<li><a class="nav-link" href="beranda#news">Berita</a></li>
+					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
+					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
+					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-financial_accounting">English</a></li>
 							<li><a href="layanan-akuntansi_keuangan">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="contact">Contact</a></li>
+					<li><a class="nav-link" href="kontak">Kontak</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav>
@@ -80,13 +80,13 @@
             </div>
             <div class="container">
                 <p>
-                    We offer financial and accounting out sourcing services to provide our clients with timely, 
-					accurate and customized financial reports saving them the hassle
-                    of establishing an accounting department , regulating internal control activities
-                    and administering financial reporting processes.
+					Kami menawarkan layanan sumber keuangan dan akuntansi untuk menyediakan klien kami dengan 
+					tepat waktu, laporan keuangan yang akurat dan disesuaikan sehingga tidak merepotkan mereka
+                    mendirikan departemen akuntansi, mengatur kegiatan pengendalian internal
+                    dan mengelola proses pelaporan keuangan.
 					<br><br>
-                    We also collaborate with our clients to deliver a tailor-made sustainable
-                    accounting information system. As such, we offer the following services:
+                    Kami juga berkolaborasi dengan klien kami untuk menghadirkan produk berkelanjutan yang dibuat khusus
+                    sistem informasi akuntansi. Dengan demikian, kami menawarkan layanan berikut:
                 </p><br>
             </div>
             <div class="container">
@@ -97,7 +97,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Bookkeeping services</h4>
+						<h4>Layanan pembukuan</h4>
 					</div>
 					<div class="col-1" style="text-align: center;">
 						<div class="dot">
@@ -105,7 +105,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Financial reports compliation</h4>
+						<h4>Kesesuaian laporan keuangan</h4>
 					</div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Payroll services</h4>
+						<h4>Layanan penggajian</h4>
 					</div>
 					<div class="col-1" style="text-align: center;">
 						<div class="dot">
@@ -125,7 +125,7 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>Financial advisory</h4>
+						<h4>Penasihat keuangan</h4>
 					</div>
 				</div>
 			</div>
@@ -150,31 +150,31 @@
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Services</h4>
+						<h4>Layanan Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-manage_consult">Management Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-auditing_assurance">Auditing & Assurance</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-financial_accounting">Financial & Accounting</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-taxplanning">Tax Planning & Consultancy</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="services-hr">HR Solutions</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-konsult_manage">Konsultasi Manajemen</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-audit_jaminan">Audit & Jaminan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-akuntansi_keuangan">Akuntansi Keuangan</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-pajak">Perencanaan & Konsultasi Pajak</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="layanan-sdm">Solusi SDM</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Clients</h4>
+						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Retail & Manufactures</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Service, Hospitality & Construction</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Technology</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Transportation</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Cooperation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="beranda#portfolio">Kerja sama</a></li>
 						</ul>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
-						<h4>Our Social Networks</h4>
-						<p>Connect with us</p>
+						<h4>Sosial Media Kami</h4>
+						<p>Terhubung dengan kami</p>
 						<div class="social-links mt-3">
 							<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
 							<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>

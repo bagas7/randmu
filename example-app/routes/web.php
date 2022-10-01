@@ -49,6 +49,10 @@ Route::get('/services-financial_accounting', function () {
     return view('services-financial_accounting');
 });
 
+Route::get('/layanan-akuntansi_keuangan', function () {
+    return view('layanan-akuntansi_keuangan');
+});
+
 Route::get('/services-taxplanning', function () {
     return view('services-taxplanning');
 });
