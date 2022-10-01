@@ -56,7 +56,7 @@
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-manage_consult">English</a></li>
-							<li><a href="layanan-konsult_manage.html">Bahasa Indonesia</a></li>
+							<li><a href="layanan-konsult_manage">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
 					<li><a class="nav-link" href="contact">Contact</a></li>

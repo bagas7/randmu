@@ -76,7 +76,7 @@
     <main id="main">
         <section id="services" class="services section-bg">
             <div class="container">
-                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Management Consultancy</h1><br>
+                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Konsultasi Manajemen</h1><br>
             </div>
             <div class="container">
                 <p>
