@@ -21,6 +21,10 @@ Route::get('/beranda', function () {
     return view('beranda');
 });
 
+Route::get('/services', function () {
+    return view('services');
+});
+
 Route::get('/services-manage_consult', function () {
     return view('services-manage_consult');
 });

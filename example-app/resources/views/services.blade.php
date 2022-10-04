@@ -35,6 +35,39 @@
 	======================================================== -->
 </head>
 <body>
-    
+    <!--====================HEADER SECTION====================-->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+            <!--<h1 class="logo me-auto"><a href="home.html">Randmu</a></h1>-->
+            <!-- Uncomment below if you prefer to use an image logo -->
+			<a href="/" class="logo me-auto"><img src="img/logo_randmu.jpg" alt="Randmu" class="img-fluid"></a>
+
+            <nav id="navbar" class="navbar">
+				<ul>
+                    <!--pindahkan tag active ke li yang sedang dikerjakan-->
+					<!--kalau sedang ngerjain about, pindah active ke about-->
+					<!--kalau sedang ngerjain team, pindah active ke team-->
+					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
+					<li><a class="nav-link" href="/">Home</a></li>
+					<li><a class="nav-link" href="/#news">News</a></li>
+					<li><a class="nav-link active" href="services">Services</a></li>
+					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
+					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
+						<ul>
+							<li><a href="services">English</a></li>
+							<li><a href="layanan">Bahasa Indonesia</a></li>
+						</ul>
+					</li>
+					<li><a class="nav-link" href="contact">Contact</a></li>
+				</ul>
+				<i class="bi bi-list mobile-nav-toggle"></i>
+			</nav>
+        </div>
+    </header><!--end of header-->
+
+    <!-- ======= Hero Section ======= -->
+	<section id="hero_nonhome" class="d-flex align-items-center">
+        <div class="container"></div>
+    </section><!-- End Hero -->
 </body>
 </html>
