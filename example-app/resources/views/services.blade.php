@@ -51,7 +51,7 @@
 					<li><a class="nav-link" href="/">Home</a></li>
 					<li><a class="nav-link" href="/#news">News</a></li>
 					<li><a class="nav-link active" href="services">Services</a></li>
-					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
+					<li><a class="nav-link" href="portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services">English</a></li>
