@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Services | PT. Randmu Indonesia Consulta</title>
-
-    <meta content="" name="description">
+	<title>Portfolio | PT. Randmu Indonesia Consulta</title>
+	
+	<meta content="" name="description">
 	<meta content="" name="keywords">
 
-    <!-- Favicons -->
-    <link rel="icon" href="img/favicon_randmu.png" type="image">
+	<!-- Favicons -->
+	<link rel="icon" href="img/favicon_randmu.png" type="image">
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -50,15 +50,15 @@
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
 					<li><a class="nav-link" href="/">Home</a></li>
 					<li><a class="nav-link" href="/#news">News</a></li>
-					<li><a class="nav-link active" href="services">Services</a></li>
-					<li><a class="nav-link" href="/#portfolio">Portfolio</a></li>
+					<li><a class="nav-link" href="services">Services</a></li>
+					<li><a class="nav-link" href="portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="services">English</a></li>
-							<li><a href="layanan">Bahasa Indonesia</a></li>
+							<li><a href="contact">English</a></li>
+							<li><a href="kontak">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="contact">Contact</a></li>
+					<li><a class="nav-link active" href="contact">Contact</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav>
@@ -70,71 +70,106 @@
         <div class="container"></div>
     </section><!-- End Hero -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Services</h2>
+                <h2>Our Clients</h2>
             </div>
 
-            <div class="row">
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="services-manage_consult">Management Consultancy</a></h4>
-                        <p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="services-manage_consult">read more...</a></p>
+            <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
+                <li data-filter="*" class="filter-active">All</li>
+                <li data-filter=".filter-retman">Retail & Manufactures</li>
+                <li data-filter=".filter-shc">Service, Hospitality & Construction</li>
+                <li data-filter=".filter-tech">Technology</li>
+                <li data-filter=".filter-transport">Transportation</li>
+            </ul>
+
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-retman">
+                    <div class="portfolio-img"><img src="img/portfolio/tamron.jpg" class="img-fluid" alt="PT. Tamron Akuatik Produk Industri"></div>
+                    <div class="portfolio-info">
+                        <h4>PT. Tamron Akuatik Produk Industri</h4>
+                        <p>Zhanjiang Tenglong China Group</p>
+                        <a href="http://www.tamronakuatik.com/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="services-invest_advisory">Investment Advisory & Feasibility Studies</a></h4>
-                        <p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="services-invest_advisory">read more...</a></p>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-tech">
+                    <div class="portfolio-img"><img src="img/portfolio/langenburg.webp" class="img-fluid" alt="Langenburg Technologies USA"></div>
+                    <div class="portfolio-info">
+                        <h4>Langenburg Technologies USA</h4>
+                        <a href="https://www.langenburgtechnologies.com/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="services-auditing_assurance">Auditing & Assurance</a></h4>
-                        <p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="services-auditing_assurance">read more...</a></p>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-retman">
+                    <div class="portfolio-img"><img src="img/portfolio/pkf_large.jpeg" class="img-fluid" alt="PT. Plastik Karawang Flexindo"></div>
+                    <div class="portfolio-info">
+                        <h4>PT. Plastik Karawang Flexindo</h4>
+                        <a href="http://plastickrw.co.id/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
 
-            </div><br>
-
-            <div class="row">
-
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-layer"></i></div>
-                        <h4><a href="services-financial_accounting">Financial & Accounting Services</a></h4>
-                        <p>We offer financial and accounting outsourcing services to provide our clients with timely, accurate and customized financial reports saving them the hassle of establishing an accounting department, regulating internal <a href="services-financial_accounting">read more...</a></p>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-shc">
+                    <div class="portfolio-img"><img src="img/portfolio/grandpalacebali.jpg" class="img-fluid" alt="Grand Palace Hotel, Bali"></div>
+                    <div class="portfolio-info">
+                        <h4>Grand Palace Hotel</h4>
+                        <p>Bali</p>
+                        <a href="https://www.grandpalacebali.com/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="services-taxplanning">Tax Planning & Consultancy</a></h4>
-                        <p>Tax is now the number one regulatory concern of any CEO, and it is driving demand for proper internal control activities and tough financial reporting processes to satisfy regulators and stakeholders. With exceptional <a href="services-taxplanning">read more...</a></p>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-tech">
+                    <div class="portfolio-img"><img src="img/portfolio/northmarinespot.jpg" class="img-fluid" alt="PT. North Marine Spot"></div>
+                    <div class="portfolio-info">
+                        <h4>PT. North Marine Spot</h4>
+                        <p>Suzuki Marine Japan Group</p>
+                        <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        <!-- pic src: https://www.instagram.com/p/CNjmGsPJZRn/?utm_source=ig_web_copy_link -->
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="services-hr">HR Solutions</a></h4>
-                        <p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="services-hr">read more...</a></p>
+                <div class="col-lg-4 col-md-6 portfolio-item filter-retman">
+                    <div class="portfolio-img"><img src="img/portfolio/berlindo.jpg" class="img-fluid" alt="PT. Berlindo Mitra Utama"></div>
+                    <div class="portfolio-info">
+                        <h4>PT. Berlindo Mitra Utama</h4>
+                        <a href="http://www.berlindomitrautama.com/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-shc">
+                    <div class="portfolio-img"><img src="img/portfolio/nasgorkambonsir.jpg" class="img-fluid" alt="Nasi Goreng Kebon Sirih Restaurant"></div>
+                    <div class="portfolio-info">
+                        <h4>Nasi Goreng Kebon Sirih Restaurant</h4>
+                        <a href="https://nasgorkambonsir.com/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-shc">
+                    <div class="portfolio-img"><img src="img/portfolio/aljazeerah.jpg" class="img-fluid" alt="Al Jazeerah Restaurant"></div>
+                    <div class="portfolio-info">
+                        <h4>Al Jazeerah Restaurant</h4>
+                        <a href="https://www.instagram.com/aljazeerahsignature/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        <!-- pic source: https://www.instagram.com/p/ChTwdYaLhBT/?utm_source=ig_web_copy_link-->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-transport">
+                    <div class="portfolio-img"><img src="img/portfolio/andhikagroup.jpg" class="img-fluid" alt="Andhika Group"></div>
+                    <div class="portfolio-info">
+                        <h4>Andhika Group</h4>
+                        <a href="https://www.andhika.com/index.php/en/" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                        <!-- pic src: https://www.instagram.com/p/CEvT7PqnbI0/?utm_source=ig_web_copy_link -->
                     </div>
                 </div>
 
             </div>
 
         </div>
-    </section><!-- End Services Section -->
+    </section><!-- End Portfolio Section -->
 
     <!--FOOTER SECTION-->
 	<footer id="footer">
