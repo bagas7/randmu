@@ -25,6 +25,10 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+
 Route::get('/services-manage_consult', function () {
     return view('services-manage_consult');
 });
