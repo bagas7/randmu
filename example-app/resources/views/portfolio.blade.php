@@ -51,14 +51,14 @@
 					<li><a class="nav-link" href="/">Home</a></li>
 					<li><a class="nav-link" href="/#news">News</a></li>
 					<li><a class="nav-link" href="services">Services</a></li>
-					<li><a class="nav-link" href="portfolio">Portfolio</a></li>
+					<li><a class="nav-link active" href="portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="contact">English</a></li>
 							<li><a href="kontak">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link active" href="contact">Contact</a></li>
+					<li><a class="nav-link" href="contact">Contact</a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav>
@@ -204,11 +204,11 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Clients</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Retail & Manufactures</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Service, Hospitality & Construction</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Technology</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Transportation</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="/#portfolio">Cooperation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Retail & Manufactures</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Service, Hospitality & Construction</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Technology</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Transportation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Cooperation</a></li>
 						</ul>
 					</div>
 

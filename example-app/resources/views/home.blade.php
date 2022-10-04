@@ -295,11 +295,11 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Our Clients</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Retail & Manufactures</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Service, Hospitality & Construction</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Technology</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Transportation</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Cooperation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Retail & Manufactures</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Service, Hospitality & Construction</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Technology</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Transportation</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portfolio">Cooperation</a></li>
 						</ul>
 					</div>
 
