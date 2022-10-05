@@ -47,8 +47,8 @@
 				<ul>
 					<li><a class="nav-link scrollto active" href="beranda">Beranda</a></li>
 					<li><a class="nav-link scrollto" href="#news">Berita</a></li>
-					<li><a class="nav-link scrollto" href="#services">Layanan</a></li>
-					<li><a class="nav-link scrollto" href="#portfolio">Portofolio</a></li>
+					<li><a class="nav-link scrollto" href="layanan">Layanan</a></li>
+					<li><a class="nav-link scrollto" href="portofolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="/">English</a></li>
@@ -239,72 +239,6 @@
 			</div>
 		</section><!-- End News Section -->
 
-		<!-- ======= Services Section ======= -->
-		<section id="services" class="services section-bg">
-			<div class="container" data-aos="fade-up">
-
-				<div class="section-title">
-					<h2>Layanan</h2>
-				</div>
-
-				<div class="row">
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bxl-dribbble"></i></div>
-							<h4><a href="layanan-konsult_manage">Konsultasi Manajemen</a></h4>
-							<p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="services-manage_consult.html">read more...</a></p>
-						</div>
-					</div>
-
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></h4>
-							<p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="services-invest_advisory.html">read more...</a></p>
-						</div>
-					</div>
-
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bx-tachometer"></i></div>
-							<h4><a href="layanan-audit_jaminan">Audit & Asuransi</a></h4>
-							<p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="services-auditing_assurance.html">read more...</a></p>
-						</div>
-					</div>
-
-				</div><br>
-
-				<div class="row">
-
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bx-layer"></i></div>
-							<h4><a href="services-financial_accounting.html">Layanan Finansial & Akuntansi</a></h4>
-							<p>We offer financial and accounting outsourcing services to provide our clients with timely, accurate and customized financial reports saving them the hassle of establishing an accounting department, regulating internal <a href="services-financial_accounting.html">read more...</a></p>
-						</div>
-					</div>
-
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bxl-dribbble"></i></div>
-							<h4><a href="services-taxplanning.html">Perencanaan Pajak & Konsultasi</a></h4>
-							<p>Tax is now the number one regulatory concern of any CEO, and it is driving demand for proper internal control activities and tough financial reporting processes to satisfy regulators and stakeholders. With exceptional <a href="services-taxplanning.html">read more...</a></p>
-						</div>
-					</div>
-
-					<div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-						<div class="icon-box">
-							<div class="icon"><i class="bx bx-file"></i></div>
-							<h4><a href="layanan-sdm">Solusi SDM</a></h4>
-							<p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="services-hr.html">read more...</a></p>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</section><!-- End Services Section -->
-
 		<!-- ======= Cta Section ======= -->
 		<section id="cta" class="cta">
 			<div class="container" data-aos="zoom-in">
@@ -440,6 +374,7 @@
 		</section><!-- End Portfolio Section -->
 
 	</main><!-- End #main -->
+
 	<!-- ======= Footer ======= -->
 	<footer id="footer">
 		<div class="footer-top">
@@ -473,11 +408,11 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Ritel & Manufaktur</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Teknologi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Transportasi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Kerja sama</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Kerja sama</a></li>
 						</ul>
 					</div>
 

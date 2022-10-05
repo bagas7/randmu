@@ -25,8 +25,16 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/layanan', function () {
+    return view('layanan');
+});
+
 Route::get('/portfolio', function () {
     return view('portfolio');
+});
+
+Route::get('/portofolio', function () {
+    return view('portofolio');
 });
 
 Route::get('/services-manage_consult', function () {
