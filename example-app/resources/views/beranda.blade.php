@@ -47,8 +47,8 @@
 				<ul>
 					<li><a class="nav-link scrollto active" href="beranda">Beranda</a></li>
 					<li><a class="nav-link scrollto" href="#news">Berita</a></li>
-					<li><a class="nav-link scrollto" href="#services">Layanan</a></li>
-					<li><a class="nav-link scrollto" href="#portfolio">Portofolio</a></li>
+					<li><a class="nav-link scrollto" href="layanan">Layanan</a></li>
+					<li><a class="nav-link scrollto" href="portofolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="/">English</a></li>
@@ -440,6 +440,7 @@
 		</section><!-- End Portfolio Section -->
 
 	</main><!-- End #main -->
+	
 	<!-- ======= Footer ======= -->
 	<footer id="footer">
 		<div class="footer-top">
@@ -473,11 +474,11 @@
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Portofolio Kami</h4>
 						<ul>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Ritel & Manufaktur</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Layanan, Perhotelan & Konstruksi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Teknologi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Transportasi</a></li>
-							<li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Kerja sama</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Ritel & Manufaktur</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Layanan, Perhotelan & Konstruksi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Teknologi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Transportasi</a></li>
+							<li><i class="bx bx-chevron-right"></i> <a href="portofolio">Kerja sama</a></li>
 						</ul>
 					</div>
 

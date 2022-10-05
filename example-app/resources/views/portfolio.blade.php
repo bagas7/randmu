@@ -54,8 +54,8 @@
 					<li><a class="nav-link active" href="portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
-							<li><a href="contact">English</a></li>
-							<li><a href="kontak">Bahasa Indonesia</a></li>
+							<li><a href="portfolio">English</a></li>
+							<li><a href="portofolio">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
 					<li><a class="nav-link" href="contact">Contact</a></li>
