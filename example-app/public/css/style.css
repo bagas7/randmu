@@ -897,16 +897,6 @@ section {
 	background: #fff;
 }
 
-.news .icon-box .icon {
-  	margin-bottom: 10px;
-}
-
-.news .icon-box .icon i {
-	color: #47b2e4;
-	font-size: 36px;
-	transition: 0.3s;
-}
-
 .news .icon-box h4 {
 	font-weight: 500;
 	margin-bottom: 15px;
