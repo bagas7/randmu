@@ -76,9 +76,9 @@
 						<a href="#about" class="btn-get-started scrollto">Get Started</a>
 					</div>
 				</div>
-				<div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-					<img src="img/hero-img.png" class="img-fluid animated" alt="">
-				</div>
+				<!--<div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
+					<img src="img/" class="img-fluid animated" alt="">
+				</div>-->
 			</div>				
 		</div>
 
@@ -188,7 +188,7 @@
 
 					</div>
 
-					<div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+					<div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("img/");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
 				</div>
 
 			</div>
