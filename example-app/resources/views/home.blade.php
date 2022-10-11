@@ -145,12 +145,12 @@
 		</section><!-- End About Us Section -->
 
 		<!-- ======= Why Us Section ======= -->
-		<section id="why-us" class="why-us section-bg">
+		<section id="why-us" class="why-us">
 			<div class="container-fluid" data-aos="fade-up">
 
 				<div class="row">
 
-					<div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+					<div class="col-lg-8 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
 						<div class="content">
 							<h3><strong>Values</strong></h3><br>
@@ -188,7 +188,7 @@
 
 					</div>
 
-					<div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("img/");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+					<div class="col-lg-4 align-items-stretch order-1 order-lg-2 img" style='background-image: url("img/why_us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
 				</div>
 
 			</div>

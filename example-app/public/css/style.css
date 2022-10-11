@@ -419,7 +419,8 @@ h6 {
 #hero {
 	width: 100%;
 	height: 80vh;
-	background: #37517e;
+	background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/foto3.jpg") fixed center center;
+  background-size: cover;
 }
 
 #hero_nonhome {
@@ -698,8 +699,13 @@ section {
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
+.why-us {
+  background: linear-gradient(rgba(243,245,250,0.9), rgba(243,245,250,0.9)), url("../img/foto4.jpg") fixed center center;
+}
+
 .why-us .content {
   padding: 60px 100px 0 100px;
+  
 }
 
 .why-us .content h3 {
