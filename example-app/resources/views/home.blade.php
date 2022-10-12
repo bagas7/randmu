@@ -153,7 +153,7 @@
 					<div class="col-lg-8 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
 						<div class="content">
-							<h3><strong>Values</strong></h3><br>
+							<h1><strong>Values</strong></h1><br>
 						</div>
 
 						<div class="accordion-list">
