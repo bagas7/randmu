@@ -85,19 +85,19 @@
 					<form action="contact.php" method="post" role="form" class="php-email-form">
 						<div class="form-group">
 							<label for="name">Your Name</label>
-							<input type="text" name="name" class="form-control" id="name" required>
+							<input type="text" class="form-control" name="txtName" id="txtName" required>
 						</div>
 						<div class="form-group">
 							<label for="name">Your Email</label>
-							<input type="email" class="form-control" name="email" id="email" required>
+							<input type="email" class="form-control" name="txtEmail" id="txtEmail" required>
 						</div>
 						<div class="form-group">
 							<label for="name">Subject</label>
-							<input type="text" class="form-control" name="subject" id="subject" required>
+							<input type="text" class="form-control" name="txtSubject" id="txtSubject" required>
 						</div>
 						<div class="form-group">
 							<label for="name">Message</label>
-							<textarea class="form-control" name="message" rows="10" required></textarea>
+							<textarea class="form-control" name="txtMessage" id="txtMessage" rows="10" required></textarea>
 						</div>
 						<div class="my-3">
 							<div class="loading">Loading</div>
