@@ -92,3 +92,7 @@ Route::get('/contact', function () {
 Route::get('/kontak', function () {
     return view('kontak');
 });
+
+Route::get('/contact.php', function () {
+    return view('contact.php');
+});
