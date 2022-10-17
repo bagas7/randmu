@@ -82,7 +82,7 @@
 
 			<div class="row">
 				<div class="col-lg-6 mt-5 mt-lg-0 d-flex align-items-stretch">
-					<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+					<form action="contact.php" method="post" role="form" class="php-email-form">
 						<div class="form-group">
 							<label for="name">Nama Anda</label>
 							<input type="text" name="name" class="form-control" id="name" required>
