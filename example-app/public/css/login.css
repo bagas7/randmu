@@ -61,7 +61,7 @@
   
   .begron
   {
-    background-image: url(../../assets/images/meetings-bg-bright.jpg);
+    background-image: url(img/meetings-bg-bright.jpg);
   }
   
   [tabindex="-1"]:focus {

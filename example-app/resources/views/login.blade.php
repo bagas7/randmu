@@ -24,8 +24,8 @@
 						<div class="wrap d-md-flex">
 							<div class="text-wrap p-4 p-lg-5 text-center d-flex align-items-center order-md-last">
 								<div class="text w-100">
-									<img src="../assets/images/logo_mums_inter.png" alt=""><br><br>
-									<b><p>CV. M-U MANDIRI SEJAHTERA</p></b>
+									<img src="img/logo_randmu.jpg" alt="Randmu"><br><br>
+									<b><p>PT. RANDMU INDONESIA CONSULT</p></b>
 									<p>Belum punya akun?</p>
 									<a href="#" class="btn btn-white btn-outline-white"><b>DAFTAR</b></a>
 								</div>
