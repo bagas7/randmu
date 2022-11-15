@@ -27,7 +27,7 @@
 									<img src="img/logo_randmu.jpg" alt="Randmu"><br><br>
 									<b><p>PT. RANDMU INDONESIA CONSULT</p></b>
 									<p>Don't have an account?</p>
-									<a href="register" class="btn btn-white btn-outline-white"><b>SIGN UP</b></a>
+									<a href="/register" class="btn btn-white btn-outline-white"><b>SIGN UP</b></a>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-lg-5">

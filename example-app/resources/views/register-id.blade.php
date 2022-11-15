@@ -32,19 +32,19 @@
                             </div>
                             <form action="#" class="signin-form">
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">First Name</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="First Name" required>
+                                    <label class="label" for="name" style="color: #fff;">Nama Depan</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Nama Depan" required>
                                 </div>
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">Last Name</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Last Name" required>
+                                    <label class="label" for="name" style="color: #fff;">Nama Belakang</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Nama Belakang" required>
                                 </div>
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">Birth Place</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Birth Place" required>
+                                    <label class="label" for="name" style="color: #fff;">Tempat Lahir</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Tempat Lahir" required>
                                 </div>
                                 <div class="form-group mb-3">
-                                    <label class="label" for="birthday" style="color: #fff;">Birth Date</label>
+                                    <label class="label" for="birthday" style="color: #fff;">Tanggal Lahir</label>
                                     <input type="date" style="color: #fff; background-color: gray" class="form-control" placeholder="dd/mm/yyyy" required>
                                 </div>
                             </form>
@@ -74,23 +74,23 @@
                                         required>
                                 </div>
                                 <div class="form-group mb-3">
-                                    <label class="label" for="password" style="color: #fff;">Password</label>
+                                    <label class="label" for="password" style="color: #fff;">Kata Sandi</label>
                                     <input type="password" style="color: #fff; background-color: gray" class="form-control"
-                                        placeholder="Password" required>
+                                        placeholder="Kata Sandi" required>
                                 </div>
                                 <br>
                                 <div class="form-group">
-                                    <button type="submit" class="form-control btn btn-primary submit px-3"><b>SIGN UP</b></button>
+                                    <button type="submit" class="form-control btn btn-primary submit px-3"><b>DAFTAR</b></button>
                                 </div>
                                 <div class="form-group d-md-flex">
                                     <div class="w-50 text-left">
-                                        <label class="checkbox-wrap checkbox-primary mb-0">Remember Me
+                                        <label class="checkbox-wrap checkbox-primary mb-0">Ingat Saya
                                             <input type="checkbox" checked>
                                             <span class="checkmark"></span>
                                         </label>
                                     </div>
                                     <div class="w-50 text-right">
-                                        <a href="/login">Back to Login Page</a>
+                                        <a href="/login-id">Kembali ke Halaman Login</a>
                                     </div>
                                 </div>
                             </form>
