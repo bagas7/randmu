@@ -66,6 +66,9 @@
 											<a href="#">Forgot Password</a>
 										</div>
 									</div>
+                                    <div>
+										<a href="/">Back to Home</a>
+									</div>
 								</form>
 							</div>
 						</div>
@@ -74,7 +77,7 @@
 			</div>
 		</section>
 		<div class="footer" style="color: #fff; text-align: center; text-transform: uppercase;">
-			<p>Copyright © 2022 CV. M-U MANDIRI SEJAHTERA, All Rights Reserved.</p>
+			<p>Copyright © 2022 PT. RANDMU INDONESIA CONSULT, All Rights Reserved.</p>
 		</div>
 
 		<script src="js/jquery.min.js"></script>

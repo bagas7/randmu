@@ -61,7 +61,7 @@
   
   .begron
   {
-    background-image: url(img/meetings-bg-bright.jpg);
+    background-image: url(../img/meetings-bg-bright.jpg);
   }
   
   [tabindex="-1"]:focus {
@@ -8198,16 +8198,16 @@
         width: 100%; } }
   
   .text-wrap {
-    background: #f5a425;
-    background: -moz-linear-gradient(-45deg, #f5a425 0%, #f5a425 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, #f5a425), color-stop(100%, #f5a425));
-    background: -webkit-linear-gradient(-45deg, #f5a425 0%, #f5a425 100%);
-    background: -o-linear-gradient(-45deg, #f5a425 0%, #f5a425 100%);
-    background: -ms-linear-gradient(-45deg, #f5a425 0%, #f5a425 100%);
-    background: -webkit-linear-gradient(315deg, #f5a425 0%, #f5a425 100%);
-    background: -o-linear-gradient(315deg, #f5a425 0%, #f5a425 100%);
-    background: linear-gradient(135deg, #f5a425 0%, #f5a425 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5a425', endColorstr='#f5a425', GradientType=1 );
+    background: #fff;
+    background: -moz-linear-gradient(-45deg, #fff 0%, #fff 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, #fff), color-stop(100%, #fff));
+    background: -webkit-linear-gradient(-45deg, #fff 0%, #fff 100%);
+    background: -o-linear-gradient(-45deg, #fff 0%, #fff 100%);
+    background: -ms-linear-gradient(-45deg, #fff 0%, #fff 100%);
+    background: -webkit-linear-gradient(315deg, #fff 0%, #fff 100%);
+    background: -o-linear-gradient(315deg, #fff 0%, #fff 100%);
+    background: linear-gradient(135deg, #fff 0%, #fff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff', GradientType=1 );
     color: #000; }
     .text-wrap .text h2 {
       font-weight: 900;
