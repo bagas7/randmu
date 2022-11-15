@@ -66,7 +66,7 @@
 											<a href="#">Forgot Password?</a>
 										</div>
 									</div>
-                                    <div class="text-md-right">
+                                    <div class="text-md-right" style="color: blue">
 										<a href="/">Back to Home</a>
 									</div>
 								</form>
