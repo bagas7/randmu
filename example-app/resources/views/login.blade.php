@@ -26,8 +26,8 @@
 								<div class="text w-100">
 									<img src="img/logo_randmu.jpg" alt="Randmu"><br><br>
 									<b><p>PT. RANDMU INDONESIA CONSULT</p></b>
-									<p>Belum punya akun?</p>
-									<a href="#" class="btn btn-white btn-outline-white"><b>DAFTAR</b></a>
+									<p>Don't have an account?</p>
+									<a href="#" class="btn btn-white btn-outline-white"><b>SIGN UP</b></a>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-lg-5">
@@ -63,7 +63,7 @@
 											</label>
 										</div>
 										<div class="w-50 text-md-right">
-											<a href="#">Forgot Password</a>
+											<a href="#">Forgot Password?</a>
 										</div>
 									</div>
                                     <div class="text-md-right">
