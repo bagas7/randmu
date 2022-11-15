@@ -57,7 +57,7 @@
 						</ul>
 					</li>
 					<li><a class="nav-link" href="contact">Contact</a></li>
-					<li><a class="nav-link" href="contact"><button type="button" class="btn-get-started">Login</button></a></li>
+					<li><a class="nav-link" href="login"><button type="button" class="btn-get-started">Login</button></a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->

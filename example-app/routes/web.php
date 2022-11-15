@@ -93,6 +93,6 @@ Route::get('/kontak', function () {
     return view('kontak');
 });
 
-Route::get('/contact.php', function () {
-    return view('contact.php');
+Route::get('/login', function () {
+    return view('login');
 });
