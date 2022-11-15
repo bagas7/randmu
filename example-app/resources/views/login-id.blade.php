@@ -26,8 +26,8 @@
 								<div class="text w-100">
 									<img src="img/logo_randmu.jpg" alt="Randmu"><br><br>
 									<b><p>PT. RANDMU INDONESIA CONSULT</p></b>
-									<p>Don't have an account?</p>
-									<a href="#" class="btn btn-white btn-outline-white"><b>SIGN UP</b></a>
+									<p>Belum punya akun?</p>
+									<a href="#" class="btn btn-white btn-outline-white"><b>DAFTAR</b></a>
 								</div>
 							</div>
 							<div class="login-wrap p-4 p-lg-5">
@@ -49,25 +49,25 @@
 										<input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Username" required>
 									</div>
 									<div class="form-group mb-3">
-										<label class="label" for="password" style="color: #fff;">Password</label>
-										<input type="password" style="color: #fff; background-color: gray" class="form-control" placeholder="Password" required>
+										<label class="label" for="password" style="color: #fff;">Kata Sandi</label>
+										<input type="password" style="color: #fff; background-color: gray" class="form-control" placeholder="Kata Sandi" required>
 									</div>
 									<div class="form-group">
-										<button type="submit" class="form-control btn btn-primary submit px-3"><b>LOGIN</b></button>
+										<button type="submit" class="form-control btn btn-primary submit px-3"><b>MASUK</b></button>
 									</div>
 									<div class="form-group d-md-flex">
 										<div class="w-50 text-left">
-											<label class="checkbox-wrap checkbox-primary mb-0">Remember Me
+											<label class="checkbox-wrap checkbox-primary mb-0">Ingat Saya
 												<input type="checkbox" checked>
 												<span class="checkmark"></span>
 											</label>
 										</div>
 										<div class="w-50 text-md-right">
-											<a href="#">Forgot Password?</a>
+											<a href="#">Lupa Kata Sandi?</a>
 										</div>
 									</div>
                                     <div class="text-md-right">
-										<a href="/">Back to Home</a>
+										<a href="/beranda">Kembali ke Beranda</a>
 									</div>
 								</form>
 							</div>
