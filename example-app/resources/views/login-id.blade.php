@@ -50,7 +50,7 @@
 									</div>
 									<div class="form-group mb-3">
 										<label class="label" for="password" style="color: #fff;">Kata Sandi</label>
-										<input type="password" style="color: #fff; background-color: gray" class="form-control" placeholder="Password" required>
+										<input type="password" style="color: #fff; background-color: gray" class="form-control" placeholder="Kata Sandi" required>
 									</div>
 									<div class="form-group">
 										<button type="submit" class="form-control btn btn-primary submit px-3"><b>MASUK</b></button>
