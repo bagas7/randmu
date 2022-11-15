@@ -46,17 +46,18 @@
 
 			<nav id="navbar" class="navbar">
 				<ul>
-					<li><a class="nav-link scrollto active" href="/">Home</a></li>
+					<li><a class="nav-link active" href="/">Home</a></li>
 					<li><a class="nav-link scrollto" href="#news">News</a></li>
-					<li><a class="nav-link scrollto" href="services">Services</a></li>
-					<li><a class="nav-link scrollto" href="portfolio">Portfolio</a></li>
+					<li><a class="nav-link" href="services">Services</a></li>
+					<li><a class="nav-link" href="portfolio">Portfolio</a></li>
 					<li class="dropdown"><a href="#"><span>Language</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="/">English</a></li>
 							<li><a href="beranda">Bahasa Indonesia</a></li>
 						</ul>
 					</li>
-					<li><a class="nav-link scrollto" href="contact">Contact</a></li>
+					<li><a class="nav-link" href="contact">Contact</a></li>
+					<li><a class="nav-link" href="login"><button type="button" class="btn-get-started">Login</button></a></li>
 				</ul>
 				<i class="bi bi-list mobile-nav-toggle"></i>
 			</nav><!-- .navbar -->
