@@ -7929,6 +7929,12 @@
   
   .text-right {
     text-align: right !important; }
+
+  .text-right a {
+    color: #fff; }
+  
+  .text-right a:hover {
+    color: #f5a425; }
   
   .text-center {
     text-align: center !important; }
@@ -7946,6 +7952,12 @@
       text-align: left !important; }
     .text-md-right {
       text-align: right !important; }
+
+    .text-md-right a {
+      color: #fff;}
+    .text-md-right a:hover {
+      font-weight: 500;
+      color: #f5a425;}
     .text-md-center {
       text-align: center !important; } }
   

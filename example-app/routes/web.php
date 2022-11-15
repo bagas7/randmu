@@ -100,3 +100,11 @@ Route::get('/login', function () {
 Route::get('/login-id', function () {
     return view('login-id');
 });
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::get('/register-id', function () {
+    return view('register-id');
+});

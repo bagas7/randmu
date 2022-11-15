@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Randmu | Register</title>
+
+    <!-- Favicons -->
+	<link rel="icon" href="img/favicon_randmu.png" type="image">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="css/login.css">
+
+</head>
+
+<body class="begron">
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-12">
+                    <div class="wrap d-md-flex">
+                        <div class="login-wrap p-4 p-lg-5">
+                            <div class="d-flex">
+                                <div class="w-100">
+                                    <h3 class="mb-4" style="color: #fff;">Register</h3>
+                                </div>
+                            </div>
+                            <form action="#" class="signin-form">
+                                <div class="form-group mb-1">
+                                    <label class="label" for="name" style="color: #fff;">Nama Depan</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Nama Depan" required>
+                                </div>
+                                <div class="form-group mb-1">
+                                    <label class="label" for="name" style="color: #fff;">Nama Belakang</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Nama Belakang" required>
+                                </div>
+                                <div class="form-group mb-1">
+                                    <label class="label" for="name" style="color: #fff;">Tempat Lahir</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Tempat Lahir" required>
+                                </div>
+                                <div class="form-group mb-3">
+                                    <label class="label" for="birthday" style="color: #fff;">Tanggal Lahir</label>
+                                    <input type="date" style="color: #fff; background-color: gray" class="form-control" placeholder="dd/mm/yyyy" required>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="login-wrap p-4 p-lg-5">
+                            <div class="d-flex">
+                                <div class="w-100">
+                                    <p class="social-media d-flex justify-content-end mb-4">
+                                        <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span
+                                                class="fa fa-facebook"></span></a>
+                                        <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span
+                                                class="fa fa-instagram"></span></a>
+                                        <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span
+                                                class="fa fa-whatsapp"></span></a>
+                                    </p>
+                                </div>
+                            </div>
+                            <form action="#" class="signin-form">
+                                <div class="form-group mb-1">
+                                    <label class="label" for="email" style="color: #fff;">E-Mail</label>
+                                    <input type="email" style="color: #fff; background-color: gray" class="form-control" placeholder="E-Mail"
+                                        required>
+                                </div>
+                                <div class="form-group mb-1">
+                                    <label class="label" for="name" style="color: #fff;">Username</label>
+                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Username"
+                                        required>
+                                </div>
+                                <div class="form-group mb-3">
+                                    <label class="label" for="password" style="color: #fff;">Kata Sandi</label>
+                                    <input type="password" style="color: #fff; background-color: gray" class="form-control"
+                                        placeholder="Kata Sandi" required>
+                                </div>
+                                <br>
+                                <div class="form-group">
+                                    <button type="submit" class="form-control btn btn-primary submit px-3"><b>DAFTAR</b></button>
+                                </div>
+                                <div class="form-group d-md-flex">
+                                    <div class="w-50 text-left">
+                                        <label class="checkbox-wrap checkbox-primary mb-0">Ingat Saya
+                                            <input type="checkbox" checked>
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                    <div class="w-50 text-right">
+                                        <a href="/login-id">Kembali ke Halaman Login</a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="footer" style="color: #fff; text-align: center; text-transform: uppercase;">
+        <p>Copyright © 2022 PT. RANDMU INDONESIA CONSULT, All Rights Reserved.</p>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
