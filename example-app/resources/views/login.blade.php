@@ -15,8 +15,15 @@
 		
 		<link rel="stylesheet" href="css/login.css">
 
+		<!--sweetalert-->
+		<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
 	</head>
 	<body class="begron">
+		@if(session()->has('errorLogin'))
+			{{-- has adalah untuk mengechek apakah suatu session membawa session/mempunyai session loginError --}}
+			<script>swal("Login gagal!", "{{ session('errorLogin') }}", "error");</script>
+		@endif
 		<section class="ftco-section">
 			<div class="container">
 				<div class="row justify-content-center">
@@ -43,14 +50,18 @@
 										</p>
 									</div>
 								</div>
-								<form action="#" class="signin-form">
+								<form action="/login/authenticate" method="POST" class="signin-form">
+									@csrf
 									<div class="form-group mb-3">
 										<label class="label" for="name" style="color: #fff;">Username</label>
-										<input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Username" required>
+										<input type="text" style="color: #fff; background-color: gray" class="form-control @error('username') is-invalid @enderror" placeholder="Username" required>
+										<small style="color:red;" >@error('username') {{ $message }} @enderror</small>
 									</div>
 									<div class="form-group mb-3">
 										<label class="label" for="password" style="color: #fff;">Password</label>
-										<input type="password" style="color: #fff; background-color: gray" class="form-control" placeholder="Password" required>
+										<input id="password-field" type="password" name="password" style="color: #fff; background-color: gray" class="form-control @error('password') is-invalid @enderror" placeholder="Password" required>
+										<span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+										<small style="color:white;" >@error('password') {{ $message }} @enderror</small>
 									</div>
 									<div class="form-group">
 										<button type="submit" class="form-control btn btn-primary submit px-3"><b>LOGIN</b></button>
