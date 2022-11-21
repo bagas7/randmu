@@ -101,6 +101,10 @@ Route::get('/login-id', function () {
     return view('login-id');
 });
 
+Route::post('/login/authenticate','App\Http\Controllers\LoginController@authenticate')->middleware('guest');
+
+Route::post('/logout',[loginController::class,'logout'])->middleware('auth');
+
 Route::get('/register', function () {
     return view('register');
 });
