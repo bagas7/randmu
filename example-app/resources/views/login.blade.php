@@ -60,7 +60,7 @@
 									<div class="form-group mb-3">
 										<label class="label" for="password" style="color: #fff;">Password</label>
 										<input id="password-field" type="password" name="password" style="color: #fff; background-color: gray" class="form-control @error('password') is-invalid @enderror" placeholder="Password" required>
-										<span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+										<span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password" onclick="togglePassword()"></span>
 										<small style="color:white;" >@error('password') {{ $message }} @enderror</small>
 									</div>
 									<div class="form-group">
