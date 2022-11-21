@@ -49,20 +49,24 @@
                             </div>
                             <form action="/register" method="POST" class="signin-form">
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">First Name</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="First Name" required>
+                                    <label class="label" for="first_name" style="color: #fff;">First Name</label>
+                                    <input type="text" name="first_name" id="first_name" style="color: #fff; background-color: gray" class="form-control @error('first_name') is-invalid @enderror" value="{{ old('first_name') }}" placeholder="First Name" required>
+                                    <small style="color:red;" >@error('first_name') {{ $message }} @enderror</small>
                                 </div>
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">Last Name</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Last Name" required>
+                                    <label class="label" for="last_name" style="color: #fff;">Last Name</label>
+                                    <input type="text" name="last_name" id="last_name" style="color: #fff; background-color: gray" class="form-control @error('last_name') is-invalid @enderror" value="{{ old('last_name') }}" placeholder="Last Name" required>
+                                    <small style="color:red;" >@error('last_name') {{ $message }} @enderror</small>
                                 </div>
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">Birth Place</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Birth Place" required>
+                                    <label class="label" for="birth_place" style="color: #fff;">Birth Place</label>
+                                    <input type="text" name="birth_place" id="birth_place" style="color: #fff; background-color: gray" class="form-control @error('birth_place') is-invalid @enderror" value="{{ old('birth_place') }}" placeholder="Birth Place" required>
+                                    <small style="color: red;" >@error('birth_place') {{ $message }} @enderror</small>
                                 </div>
                                 <div class="form-group mb-3">
-                                    <label class="label" for="birthday" style="color: #fff;">Birth Date</label>
-                                    <input type="date" style="color: #fff; background-color: gray" class="form-control" placeholder="dd/mm/yyyy" required>
+                                    <label class="label" for="birth_date" style="color: #fff;">Birth Date</label>
+                                    <input type="date" name="birth_date" id="birth_date" style="color: #fff; background-color: gray" class="form-control @error('birth_date') is-invalid @enderror" value="{{ old('birth_date') }}" placeholder="dd/mm/yyyy" required>
+                                    <small style="color: red;" >@error('birth_date') {{ $message }} @enderror</small>
                                 </div>
                             </form>
                         </div>
@@ -82,18 +86,18 @@
                             <form action="#" class="signin-form">
                                 <div class="form-group mb-1">
                                     <label class="label" for="email" style="color: #fff;">E-Mail</label>
-                                    <input type="email" style="color: #fff; background-color: gray" class="form-control" placeholder="E-Mail"
-                                        required>
+                                    <input type="email" name="email" id="email" style="color: #fff; background-color: gray" class="form-control @error('email') is-invalid @enderror" value="{{ old('email') }}" placeholder="E-Mail" required>
+                                    <small style="color:red;" >@error('email') {{ $message }} @enderror</small>
                                 </div>
                                 <div class="form-group mb-1">
-                                    <label class="label" for="name" style="color: #fff;">Username</label>
-                                    <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="Username"
-                                        required>
+                                    <label class="label" for="username" style="color: #fff;">Username</label>
+                                    <input type="text" name="username" id="username" style="color: #fff; background-color: gray" class="form-control @error('username') is-invalid @enderror" value="{{ old('username') }}" placeholder="Username" required>
+                                    <small style="color:red;" >@error('username') {{ $message }} @enderror</small>
                                 </div>
                                 <div class="form-group mb-3">
                                     <label class="label" for="password" style="color: #fff;">Password</label>
-                                    <input type="password" style="color: #fff; background-color: gray" class="form-control"
-                                        placeholder="Password" required>
+                                    <input type="password" name="password" id="password" style="color: #fff; background-color: gray" class="form-control @error('password') is-invalid @enderror" placeholder="Password" required>
+                                    <small style="color:red;" >@error('password') {{ $message }} @enderror</small>
                                 </div>
                                 <br>
                                 <div class="form-group">
