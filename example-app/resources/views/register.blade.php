@@ -47,7 +47,7 @@
                                     <h3 class="mb-4" style="color: #fff;">Register</h3>
                                 </div>
                             </div>
-                            <form action="#" class="signin-form">
+                            <form action="/register" method="POST" class="signin-form">
                                 <div class="form-group mb-1">
                                     <label class="label" for="name" style="color: #fff;">First Name</label>
                                     <input type="text" style="color: #fff; background-color: gray" class="form-control" placeholder="First Name" required>
