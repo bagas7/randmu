@@ -112,3 +112,7 @@ Route::get('/register', function () {
 Route::get('/register-id', function () {
     return view('register-id');
 });
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+});
