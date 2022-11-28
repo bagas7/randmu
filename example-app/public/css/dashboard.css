@@ -10699,7 +10699,7 @@
   }
   
   .sidebar-dark .nav-item .nav-link[data-toggle="collapse"]::after {
-    color: navy;
+    color: white;
   }
   
   .sidebar-dark .nav-item.active .nav-link {
@@ -10711,19 +10711,19 @@
   }
   
   .sidebar-dark #sidebarToggle {
-    background-color: navy;
+    background-color: white;
   }
   
   .sidebar-dark #sidebarToggle::after {
-    color: navy;
+    color: white;
   }
   
   .sidebar-dark #sidebarToggle:hover {
-    background-color: navy;
+    background-color: white;
   }
   
   .sidebar-dark.toggled #sidebarToggle::after {
-    color: navy;
+    color: white;
   }
   
   body.sidebar-toggled footer.sticky-footer {
