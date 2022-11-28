@@ -59,8 +59,7 @@
                     <i class="fa fa-align-left"></i>
                     <span>Posts</span>
                 </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-                    
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-list-1">    
             </li>
 
             <!-- Nav Item - Utilities Collapse Menu -->
@@ -70,8 +69,7 @@
                     <i class="fas fa-comment-alt"></i>
                     <span>Comments</span>
                 </a>
-                <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities"
-                    data-parent="#accordionSidebar">
+                <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordion-list">
                 </div>
             </li>
 
@@ -81,8 +79,7 @@
                     <i class="fas fa-fw fa-cog"></i>
                     <span>Settings</span>
                 </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-                    
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-list">
             </li>
 
             
@@ -118,8 +115,7 @@
                     <form
                         class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
                         <div class="input-group">
-                            <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..."
-                                aria-label="Search" aria-describedby="basic-addon2">
+                            <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
                             <div class="input-group-append">
                                 <button class="btn btn-primary" type="button">
                                     <i class="fas fa-search fa-sm"></i>
@@ -330,7 +326,7 @@
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="js/sb-admin-2.min.js"></script>
+    <script src="js/sb-admin-2.js"></script>
 
     <!-- Page level plugins -->
     <script src="vendor/chart.js/Chart.min.js"></script>
