@@ -22,7 +22,7 @@
 	<body class="begron">
 		@if(session()->has('errorLogin'))
 			{{-- has adalah untuk mengechek apakah suatu session membawa session/mempunyai session loginError --}}
-			<script>swal("Login gagal!", "{{ session('errorLogin') }}", "error");</script>
+			<script>swal.fire("Login gagal!", "{{ session('errorLogin') }}", "error");</script>
 		@endif
 		<section class="ftco-section">
 			<div class="container">
