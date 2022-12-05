@@ -222,7 +222,7 @@
 								<a href="#"><img src="img/70.jpg" alt="contoh gambar" height="215"></a>
 							</div>
 							<div class="down-content">
-								<h4><a href="">Sed ut perspicive</a></h4>
+								<h4><a href="">Sed ut perspicive ehe</a></h4>
 								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
 							</div>
 						</div>
