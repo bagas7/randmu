@@ -51,8 +51,8 @@
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
 					<li><a class="nav-link" href="beranda">Beranda</a></li>
 					<li><a class="nav-link" href="beranda#news">Berita</a></li>
-					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
-					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
+					<li><a class="nav-link active" href="layanan">Layanan</a></li>
+					<li><a class="nav-link" href="portofolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-hr">English</a></li>
