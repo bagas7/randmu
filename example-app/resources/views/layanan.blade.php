@@ -84,7 +84,7 @@
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
                         <h4><a href="layanan-konsult_manage">Konsultasi Manajemen</a></h4>
-                        <p>Business owners and the management team sometimes need a bird's eye view to their business in order to ensure that all risks are being accounted for and all opportunities are being considered. In addition to this, they <a href="layanan-konsult_manage">read more...</a></p>
+                        <p>Pemilik bisnis dan tim manajemen terkadang membutuhkan pandangan sekilas terhadap bisnis mereka untuk memastikan bahwa semua risiko diperhitungkan dan semua peluang dipertimbangkan. Selain itu, mereka <a href="layanan-konsult_manage">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
@@ -92,15 +92,15 @@
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-file"></i></div>
                         <h4><a href="layanan-penasihat_investasi">Penasihat Investasi & Studi Kelayakan</a></h4>
-                        <p>We provide consultancy on the establishment of new entities in Indonesia. Entering new markets, introducing new products/services and targeting new consumer segments indispensably requires a thorough feasibility study. It should include <a href="layanan-penasihat_investasi">read more...</a></p>
+                        <p>Kami menyediakan konsultasi tentang pendirian entitas baru di Indonesia. Memasuki pasar baru, memperkenalkan produk/layanan baru dan menargetkan segmen konsumen baru sangat diperlukan studi kelayakan yang menyeluruh. Ini harus mencakup <a href="layanan-penasihat_investasi">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
                 <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="layanan-audit_jaminan">Audit & Asuransi</a></h4>
-                        <p>In today's business environment, there is more scrunity and skepticism of a company's financial statements than ever before and therefore auditing financial statements has become indispensable. Investors have lost faith in <a href="layanan-audit_jaminan">read more...</a></p>
+                        <h4><a href="layanan-audit_jaminan">Audit & Jaminan</a></h4>
+                        <p>Dalam lingkungan bisnis saat ini, ada lebih banyak pengawasan dan skeptisisme terhadap laporan keuangan perusahaan daripada sebelumnya dan oleh karena itu audit laporan keuangan menjadi sangat diperlukan. Investor telah kehilangan kepercayaan <a href="layanan-audit_jaminan">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
@@ -111,16 +111,17 @@
                 <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-layer"></i></div>
-                        <h4><a href="services-financial_accounting.html">Layanan Finansial & Akuntansi</a></h4>
-                        <p>We offer financial and accounting outsourcing services to provide our clients with timely, accurate and customized financial reports saving them the hassle of establishing an accounting department, regulating internal <a href="services-financial_accounting.html">read more...</a></p>
+                        <h4><a href="layanan-akuntansi_keuangan">Layanan Finansial & Akuntansi</a></h4>
+                        <p>
+                            Kami menawarkan layanan sumber keuangan dan akuntansi untuk menyediakan klien kami dengan tepat waktu, laporan keuangan yang akurat dan disesuaikan sehingga tidak merepotkan mereka mendirikan departemen akuntansi, mengatur kegiatan pengendalian internal <a href="layanan-akuntansi_keuangan">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
                 <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="services-taxplanning.html">Perencanaan Pajak & Konsultasi</a></h4>
-                        <p>Tax is now the number one regulatory concern of any CEO, and it is driving demand for proper internal control activities and tough financial reporting processes to satisfy regulators and stakeholders. With exceptional <a href="services-taxplanning.html">read more...</a></p>
+                        <h4><a href="layanan-pajak">Perencanaan Pajak & Konsultasi</a></h4>
+                        <p>Pajak sekarang menjadi perhatian regulasi nomor satu dari CEO mana pun, dan itu mendorong permintaan untuk aktivitas pengendalian internal yang tepat dan proses pelaporan keuangan yang sulit untuk memuaskan regulator dan pemangku kepentingan. Dengan keahlian <a href="layanan-pajak">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
@@ -128,7 +129,7 @@
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-file"></i></div>
                         <h4><a href="layanan-sdm">Solusi SDM</a></h4>
-                        <p>In our strive to provide our clients with all the assistance they need to efficiently manage their business and focus on the value adding activities of their human capital, we provide the below HR solutions. We provide <a href="layanan-sdm">read more...</a></p>
+                        <p>Dalam upaya kami untuk menyediakan klien kami dengan semua bantuan yang mereka butuhkan untuk secara efisien mengelola bisnis mereka dan fokus pada aktivitas nilai tambah dari sumber daya manusia mereka, kami menyediakan <a href="layanan-sdm">Baca selengkapnya...</a></p>
                     </div>
                 </div>
 
