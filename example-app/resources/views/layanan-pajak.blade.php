@@ -6,7 +6,7 @@
 
     <!--ubah namahalaman jadi nama halaman yang sedang dikerjakan-->
 	<title>Services | PT. Randmu Indonesia Consult</title>
-	
+
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 
@@ -51,8 +51,8 @@
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
 					<li><a class="nav-link" href="beranda">Beranda</a></li>
 					<li><a class="nav-link" href="beranda#news">Berita</a></li>
-					<li><a class="nav-link active" href="layanan">Layanan</a></li>
-					<li><a class="nav-link" href="portofolio">Portofolio</a></li>
+					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
+					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-taxplanning">English</a></li>
@@ -77,13 +77,13 @@
 	<main id="main">
         <section id="services" class="services section-bg">
             <div class="container">
-                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Tax Planning & Consult</h1><br>
+                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Perencanaan Pajak & Konsultasi</h1><br>
             </div>
             <div class="container">
                 <p>
 					Pajak sekarang menjadi perhatian regulasi nomor satu dari CEO mana pun, dan itu mendorong permintaan untuk
                     aktivitas pengendalian internal yang tepat dan proses pelaporan keuangan yang sulit untuk memuaskan
-                    regulator dan pemangku kepentingan. 
+                    regulator dan pemangku kepentingan.
                     <br><br>
 
                     Dengan keahlian luar biasa di bidang ini, kami menawarkan konsultasi strategis dari
@@ -92,7 +92,7 @@
 
                     Kami menyarankan klien tentang cara mencapai tujuan bisnis mereka dengan mengurangi pajak mereka
                     risiko dan memenuhi kewajiban kepatuhan mereka. Konsultasi pajak kami juga meningkatkan
-                    efisiensi bisnis dan operasi karena kami menyarankan klien untuk mengelola kontribusi pajak mereka. 
+                    efisiensi bisnis dan operasi karena kami menyarankan klien untuk mengelola kontribusi pajak mereka.
 					<br><br>
                     Layanan kami di bidang ini meliputi, namun tidak terbatas pada, sebagai berikut:
                 </p><br>
@@ -160,7 +160,7 @@
 			</div>
         </section>
     </main>
-	
+
 	<footer id="footer">
 		<div class="footer-top">
 			<div class="container">

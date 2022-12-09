@@ -6,7 +6,7 @@
 
     <!--ubah namahalaman jadi nama halaman yang sedang dikerjakan-->
 	<title>Services | PT. Randmu Indonesia Consult</title>
-	
+
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 
@@ -51,8 +51,8 @@
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
 					<li><a class="nav-link" href="beranda">Beranda</a></li>
 					<li><a class="nav-link" href="beranda#news">Berita</a></li>
-					<li><a class="nav-link active" href="layanan">Layanan</a></li>
-					<li><a class="nav-link" href="portofolio">Portofolio</a></li>
+					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
+					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-financial_accounting">English</a></li>
@@ -77,11 +77,11 @@
 	<main id="main">
         <section id="services" class="services section-bg">
             <div class="container">
-                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Financial & Accounting Services</h1><br>
+                <h1 style="text-align: center; font-weight: bolder; color: #37517e;">Layanan Finansial & Akuntansi</h1><br>
             </div>
             <div class="container">
                 <p>
-					Kami menawarkan layanan sumber keuangan dan akuntansi untuk menyediakan klien kami dengan 
+					Kami menawarkan layanan sumber keuangan dan akuntansi untuk menyediakan klien kami dengan
 					tepat waktu, laporan keuangan yang akurat dan disesuaikan sehingga tidak merepotkan mereka
                     mendirikan departemen akuntansi, mengatur kegiatan pengendalian internal
                     dan mengelola proses pelaporan keuangan.
@@ -132,7 +132,7 @@
 			</div>
         </section>
     </main>
-	
+
 	<footer id="footer">
 		<div class="footer-top">
 			<div class="container">

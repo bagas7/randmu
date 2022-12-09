@@ -6,7 +6,7 @@
 
     <!--ubah namahalaman jadi nama halaman yang sedang dikerjakan-->
 	<title>Layanan | PT. Randmu Indonesia Consulta</title>
-	
+
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 
@@ -51,8 +51,8 @@
 					<!--kalau sedang ngerjain contact, pindah active ke contact, dan seterusnya-->
 					<li><a class="nav-link" href="beranda">Beranda</a></li>
 					<li><a class="nav-link" href="beranda#news">Berita</a></li>
-					<li><a class="nav-link active" href="layanan">Layanan</a></li>
-					<li><a class="nav-link" href="portofolio">Portofolio</a></li>
+					<li><a class="nav-link active" href="beranda#services">Layanan</a></li>
+					<li><a class="nav-link" href="beranda#portfolio">Portofolio</a></li>
 					<li class="dropdown"><a href="#"><span>Bahasa</span> <i class="bi bi-chevron-down"></i></a>
 						<ul>
 							<li><a href="services-auditing_assurance">English</a></li>
@@ -85,7 +85,7 @@
                     Dalam lingkungan bisnis saat ini, ada lebih banyak pengawasan dan skeptisisme terhadap laporan keuangan perusahaan daripada sebelumnya dan oleh karena itu audit laporan keuangan menjadi sangat diperlukan. Investor telah kehilangan kepercayaan pada tata kelola dan pelaporan perusahaan.
                     <br><br>
 
-                    Manajemen perusahaan, dewan dan komite audit, auditor internal dan eksternal, analis dan profesional investasi lainnya memiliki peran penting dalam membangun kembali kepercayaan investor. Pemenuhan harapan investor diawali dengan kelengkapan dan keakuratan informasi yang diberikan dalam laporan keuangan suatu perusahaan.  
+                    Manajemen perusahaan, dewan dan komite audit, auditor internal dan eksternal, analis dan profesional investasi lainnya memiliki peran penting dalam membangun kembali kepercayaan investor. Pemenuhan harapan investor diawali dengan kelengkapan dan keakuratan informasi yang diberikan dalam laporan keuangan suatu perusahaan.
                     <br><br>
 
                     Untuk organisasi yang memerlukan audit untuk alasan undang-undang atau peraturan terkait dengan pengajuan informasi keuangan tahunan dan berkala mereka, kami menyediakan layanan audit berkualitas tinggi seperti, namun tidak terbatas pada, sebagai berikut:
@@ -140,7 +140,8 @@
 						</div>
 					</div>
 					<div class="col-5">
-						<h4>AUP - Agreed-upon Procedures</h4>
+						<h4>AUP - Agreed-upon Procedures </h4>
+                        <h4>(Prosedur yang Disepakati)</h4>
 					</div>
 				</div>
 			</div>
